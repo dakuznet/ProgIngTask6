@@ -1,0 +1,5 @@
+D:\ProgIngTask6\PeakyBlindersPI\PeakyBlindersFerma\obj\Debug\net8.0\PeakyBlindersFerma.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgIngTask6\PeakyBlindersPI\PeakyBlindersFerma\obj\Debug\net8.0\PeakyBlindersFerma.AssemblyInfoInputs.cache
+D:\ProgIngTask6\PeakyBlindersPI\PeakyBlindersFerma\obj\Debug\net8.0\PeakyBlindersFerma.AssemblyInfo.cs
+D:\ProgIngTask6\PeakyBlindersPI\PeakyBlindersFerma\obj\Debug\net8.0\PeakyBlindersFerma.csproj.CoreCompileInputs.cache
+D:\ProgIngTask6\PeakyBlindersPI\PeakyBlindersFerma\obj\Debug\net8.0\PeakyBlindersFerma.sourcelink.json

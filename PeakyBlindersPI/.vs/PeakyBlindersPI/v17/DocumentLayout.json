@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5BDA116D-3C0F-432D-A81D-73827166A750}|PeakyBlindersFerma\\PeakyBlindersFerma.csproj|d:\\progingtask6\\peakyblinderspi\\peakyblindersferma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BDA116D-3C0F-432D-A81D-73827166A750}|PeakyBlindersFerma\\PeakyBlindersFerma.csproj|solutionrelative:peakyblindersferma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A155E4B-1DD4-415F-9EB2-67C23AD7602F}|Tests\\Tests.csproj|d:\\progingtask6\\peakyblinderspi\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A155E4B-1DD4-415F-9EB2-67C23AD7602F}|Tests\\Tests.csproj|solutionrelative:tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\ProgIngTask6\\PeakyBlindersPI\\Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\ProgIngTask6\\PeakyBlindersPI\\Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:18:00.64Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "PeakyBlindersFerma\\Program.cs",
               "ToolTip": "D:\\ProgIngTask6\\PeakyBlindersPI\\PeakyBlindersFerma\\Program.cs",
               "RelativeToolTip": "PeakyBlindersFerma\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T14:16:40.619Z",
               "EditorCaption": ""

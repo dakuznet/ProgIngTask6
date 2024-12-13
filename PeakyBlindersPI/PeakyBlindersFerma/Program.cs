@@ -1,9 +1,15 @@
 ﻿using System;
 
-class Program
+public class Program
 {
-    static void Main()
+    public static string GetFermatMessage()
     {
-        Console.WriteLine("Великая теорема Ферма: доказательство оставлено для потомков!"
+        return "Великая теорема Ферма: доказательство оставлено для потомков!";
+    }
+
+    // Определяем метод ProveFermat
+    public static void ProveFermat()
+    {
+        throw new NotImplementedException("Proof is impossible.");
     }
 }
